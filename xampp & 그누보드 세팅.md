@@ -20,10 +20,12 @@ https://www.youtube.com/watch?v=xqx5nuo18n0
 이를 알았어도? 새로 user 생성하고 권한 주는 일을 커맨드라인으로 했다면 분명히 또 뭔가 에러가 생겼겠지.
 역시 GUI 만세다.
 
+```
 HOST: localhost
 User: phpmyadmin에서 새로 추가
 Password: user 추가하면서 만든 비밀번호
 DB: phpmyadmin에서 새로 추가
+```
 
 DB 추가
 phpmyadmin > new > 새 데이터베이스만들기에 DB명 입력
